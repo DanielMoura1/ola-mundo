@@ -644,4 +644,4 @@ while True:
         print('erro')
         print('xxxxxxxxxxxxxxxxxx')
         x = float(input('digite 1 para saber velocida media, 1.1 para distancia,1.2 para tempo'))
-    
+print( 'teste')
