@@ -85,7 +85,7 @@ while True:
                     if a == num:
                         
                         saldo[cont] = saldo[cont] +deposito
-            else:
+            if dep == 'saque':
                 saque = int(input('digite o valor do seu saque:'))
                 
                 cont = -1
